@@ -1,0 +1,6 @@
+E:\GitHub\设计模式\DesignPatterns\SheJiMoShi\Strategy\bin\Debug\Strategy.exe.config
+E:\GitHub\设计模式\DesignPatterns\SheJiMoShi\Strategy\bin\Debug\Strategy.exe
+E:\GitHub\设计模式\DesignPatterns\SheJiMoShi\Strategy\bin\Debug\Strategy.pdb
+E:\GitHub\设计模式\DesignPatterns\SheJiMoShi\Strategy\obj\Debug\Strategy.csprojResolveAssemblyReference.cache
+E:\GitHub\设计模式\DesignPatterns\SheJiMoShi\Strategy\obj\Debug\Strategy.exe
+E:\GitHub\设计模式\DesignPatterns\SheJiMoShi\Strategy\obj\Debug\Strategy.pdb

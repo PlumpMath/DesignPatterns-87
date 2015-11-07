@@ -1,22 +1,22 @@
-﻿namespace Factory
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Strategy
 {
     /// <summary>
-    /// 抽象类
+    /// 抽象操作类
     /// </summary>
-   abstract  class Operat
+   abstract class Operat
     {
-        /// <summary>
-        /// 数A
-        /// </summary>
         public double NumberA { get; set; }
 
-        /// <summary>
-        /// 数B
-        /// </summary>
         public double NumberB { get; set; }
 
         /// <summary>
-        /// 虚方法，子类可以重写
+        /// 虚方法，获取结果
         /// </summary>
         /// <returns></returns>
         public virtual double GetResult()
