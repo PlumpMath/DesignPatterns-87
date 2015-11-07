@@ -1,0 +1,7 @@
+E:\GitHub\设计模式\SheJiMoShi\Factory\bin\Debug\Factory.exe.config
+E:\GitHub\设计模式\DesignPatterns\SheJiMoShi\Factory\bin\Debug\Factory.exe.config
+E:\GitHub\设计模式\DesignPatterns\SheJiMoShi\Factory\bin\Debug\Factory.exe
+E:\GitHub\设计模式\DesignPatterns\SheJiMoShi\Factory\bin\Debug\Factory.pdb
+E:\GitHub\设计模式\DesignPatterns\SheJiMoShi\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+E:\GitHub\设计模式\DesignPatterns\SheJiMoShi\Factory\obj\Debug\Factory.exe
+E:\GitHub\设计模式\DesignPatterns\SheJiMoShi\Factory\obj\Debug\Factory.pdb
