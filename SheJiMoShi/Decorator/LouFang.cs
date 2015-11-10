@@ -2,11 +2,11 @@
 
 namespace Decorator
 {
-    class PingFang : House
+    class LouFang : House
     {
         public override void Show()
         {
-            Console.WriteLine("这是平房");
+            Console.WriteLine("这是楼房");
         }
     }
 }

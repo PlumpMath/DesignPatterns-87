@@ -42,7 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ChinaStyle.cs" />
+    <Compile Include="EuropeStyle.cs" />
     <Compile Include="House.cs" />
+    <Compile Include="LouFang.cs" />
     <Compile Include="PingFang.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
