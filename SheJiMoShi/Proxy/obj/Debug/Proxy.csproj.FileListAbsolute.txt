@@ -1,0 +1,6 @@
+E:\GitHub\设计模式\DesignPatterns\SheJiMoShi\Proxy\bin\Debug\Proxy.exe.config
+E:\GitHub\设计模式\DesignPatterns\SheJiMoShi\Proxy\bin\Debug\Proxy.exe
+E:\GitHub\设计模式\DesignPatterns\SheJiMoShi\Proxy\bin\Debug\Proxy.pdb
+E:\GitHub\设计模式\DesignPatterns\SheJiMoShi\Proxy\obj\Debug\Proxy.csprojResolveAssemblyReference.cache
+E:\GitHub\设计模式\DesignPatterns\SheJiMoShi\Proxy\obj\Debug\Proxy.exe
+E:\GitHub\设计模式\DesignPatterns\SheJiMoShi\Proxy\obj\Debug\Proxy.pdb
