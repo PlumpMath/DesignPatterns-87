@@ -1,0 +1,5 @@
+E:\GitHub\设计模式\DesignPatterns\SheJiMoShi\IFactory\bin\Debug\IFactory.exe.config
+E:\GitHub\设计模式\DesignPatterns\SheJiMoShi\IFactory\bin\Debug\IFactory.exe
+E:\GitHub\设计模式\DesignPatterns\SheJiMoShi\IFactory\bin\Debug\IFactory.pdb
+E:\GitHub\设计模式\DesignPatterns\SheJiMoShi\IFactory\obj\Debug\IFactory.exe
+E:\GitHub\设计模式\DesignPatterns\SheJiMoShi\IFactory\obj\Debug\IFactory.pdb
