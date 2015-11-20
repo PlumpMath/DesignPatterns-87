@@ -1,5 +1,7 @@
 ﻿using System;
+using System.Runtime.CompilerServices;
 using ProtoType.Test1;
+using ProtoType.Test2;
 
 namespace ProtoType
 {
@@ -17,6 +19,22 @@ namespace ProtoType
             Console.WriteLine(fIdd);
             Console.WriteLine(cIdd);
             Console.WriteLine(sClone);
+            Console.WriteLine("********************************");
+            var a=new WorkExperice()
+            {
+                Name = "testName",
+                StarTime = DateTime.Now,
+                EndTime = DateTime.Now.AddDays(7)
+            };
+
+            var b = a.Clone();
+
+
+            Console.WriteLine(b);
+
+            var c=new MyClass();
+            var d = c.Clone();
+            Console.WriteLine(d);
             Console.ReadKey();
         }
     }
