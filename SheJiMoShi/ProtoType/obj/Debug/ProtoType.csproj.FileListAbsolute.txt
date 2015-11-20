@@ -1,0 +1,6 @@
+E:\GitHub\设计模式\DesignPatterns\SheJiMoShi\ProtoType\bin\Debug\ProtoType.exe.config
+E:\GitHub\设计模式\DesignPatterns\SheJiMoShi\ProtoType\bin\Debug\ProtoType.exe
+E:\GitHub\设计模式\DesignPatterns\SheJiMoShi\ProtoType\bin\Debug\ProtoType.pdb
+E:\GitHub\设计模式\DesignPatterns\SheJiMoShi\ProtoType\obj\Debug\ProtoType.csprojResolveAssemblyReference.cache
+E:\GitHub\设计模式\DesignPatterns\SheJiMoShi\ProtoType\obj\Debug\ProtoType.exe
+E:\GitHub\设计模式\DesignPatterns\SheJiMoShi\ProtoType\obj\Debug\ProtoType.pdb
