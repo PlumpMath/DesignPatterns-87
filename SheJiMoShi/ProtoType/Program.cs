@@ -28,8 +28,6 @@ namespace ProtoType
             };
 
             var b = a.Clone();
-
-
             Console.WriteLine(b);
 
             var c=new MyClass();
