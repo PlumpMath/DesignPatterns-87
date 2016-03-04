@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01简单工厂模式", "01简单工厂模式", "{30E8D262-31C6-44B9-9FE1-78D72DC2E344}"
 EndProject
@@ -28,6 +28,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtoType", "ProtoType\ProtoType.csproj", "{2E7B7B9B-5E88-4A5C-806F-02D0630E5DAA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07模板模式", "07模板模式", "{F96B2CAB-1646-4C44-A829-52C5D2C9E95B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08单例模式", "08单例模式", "{24750E66-2A6E-42A9-8ED9-A7373F9791FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08Singleton", "08Singleton\08Singleton.csproj", "{189A4BAA-1C62-44EA-857A-807E92078840}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -59,6 +63,10 @@ Global
 		{2E7B7B9B-5E88-4A5C-806F-02D0630E5DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E7B7B9B-5E88-4A5C-806F-02D0630E5DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E7B7B9B-5E88-4A5C-806F-02D0630E5DAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{189A4BAA-1C62-44EA-857A-807E92078840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{189A4BAA-1C62-44EA-857A-807E92078840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{189A4BAA-1C62-44EA-857A-807E92078840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{189A4BAA-1C62-44EA-857A-807E92078840}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -70,5 +78,6 @@ Global
 		{A0F9635D-2DAB-4F10-BF52-7A01B0E96924} = {0ED03E3F-AEF5-42F2-BAFB-3C2535AC9C75}
 		{7389D4FE-55FF-48EB-8874-3BCE00B39F94} = {77D94089-AD0A-47D8-8846-91F61ABB8DF5}
 		{2E7B7B9B-5E88-4A5C-806F-02D0630E5DAA} = {AF66A733-ED9A-4EA0-90A3-C86B927655F9}
+		{189A4BAA-1C62-44EA-857A-807E92078840} = {24750E66-2A6E-42A9-8ED9-A7373F9791FA}
 	EndGlobalSection
 EndGlobal
